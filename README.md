@@ -18,3 +18,5 @@ sudo ip addr add 172.16.233.10/24 dev en0
 ```
 
 - Access the site on http://172.16.233.10/
+
+![image](https://github.com/yosep-tenly/static-ip-docker-httpd/assets/41761997/d8630919-c276-49e0-b514-41ca6bcc3b1d)
